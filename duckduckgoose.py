@@ -1,5 +1,5 @@
 
-jugadores = ["carlos", "luisa", "cesar", "maribel", "carol"]
+jugadores = ["carlos", "cesar", "maribel", "carol"]
 
 def duck(juego):
     numero = input(int("Inroduce un numero entero: "))
